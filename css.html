@@ -1,0 +1,76 @@
+<style>
+    /* selectores, estilos y comentarios */
+    p, 
+    div,
+    nav span,
+    .cualquier {
+      /* color: red; */
+      /* background-color: blue; */
+      /* font-family: 'Courier New', Courier, monospace; */
+      /* font-size: 40px; */
+    }
+    /* cascada */
+    p {
+        /* color:blue; */
+        /* font-size: 10px; */
+    }
+    /* modelo de caja */
+    /* top, bottom, left, right */
+    main div {
+        background-color: blue;
+        width: 10px;
+        height: 10px;
+        padding: 20px;
+        border-right: 5px solid red;
+        margin-left: 20px;
+    }
+
+    /* posicionamiento */
+    .fixed {
+        background-color: green;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+    }
+
+    /* visualizacion */
+    /* span {
+        display: block;
+    }
+    div {
+        display: inline;
+    } */
+
+    /* .flex {
+        display: flex;
+        justify-content: space-evenly;
+    } */
+
+    .grid {
+        display: grid;
+        grid-template-columns: 100px 60px 100px 50px;
+    }
+
+
+</style>
+<p>Texto</p>
+<div>Div</div>
+<nav>
+    <span>Span</span>
+    <strong class="cualquier">Strong</strong>
+</nav>
+<section>
+    <nav class="nav">Contenido</nav>
+</section>
+<main class="flex grid">
+    <div>Div</div>
+    <div>Div</div>
+    <div class="fixed">Div</div>
+    <div>Div</div>
+    <div>Div</div>
+    <div>Div</div>
+    <div>Div</div>
+    <div>Div</div>
+    <div>Div</div>
+    <div>Div</div>
+</main>

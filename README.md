@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @jhofrank2010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Tecnologias
+- VSCODE (vscode en google)
+- Live Preview (extension vscode)
+- HTML (estructura)
+- CSS (estilos)
+- JavaScript (interactividad)
+- DOM / Navegador
 
-<!---
-jhofrank2010/jhofrank2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# HTML
+- etiquetas
+- contenido
+- dom (arbol)
+- atributos
+- comentarios
+
+# CSS
+- selectores
+- estilos
+- comentarios
+- cascada
+- modelo de caja
+    - contenido (ancho y alto)
+    - relleno
+    - borde
+    - margen
+- posicionamiento
+- visualizacion
+    - en linea
+    - bloque
+    - flexbox
+    - grid
+
+   # JavaScript
+   -algoritmo
+   -tipos de datos
+   -variables
+   -comentarios
+   -operadores
+   -condicionales
+   -funciones
+   -bucles
+   -poo
